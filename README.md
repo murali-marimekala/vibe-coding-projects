@@ -104,7 +104,15 @@ This repository is open source and available for learning purposes. Individual p
 
 ## 🌟 Featured Projects
 
-*Projects will be added as they are developed*
+### [Simple Todo App](projects/web-apps/todo-app/)
+A clean, functional todo list application built with vanilla JavaScript. Demonstrates effective Copilot prompting for:
+- CRUD operations
+- State management
+- LocalStorage persistence
+- DOM manipulation
+- Input validation and XSS prevention
+
+**Technologies**: HTML5, CSS3, Vanilla JavaScript
 
 ## 📞 Contact
 

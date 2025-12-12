@@ -4,7 +4,13 @@ This directory contains full-stack web applications, single-page applications (S
 
 ## Projects
 
-*Projects will be added here as they are developed*
+### [Simple Todo App](todo-app/)
+A minimal todo list application built with vanilla JavaScript and GitHub Copilot assistance.
+- **Features**: Add, complete, delete tasks; filter views; localStorage persistence
+- **Technologies**: HTML5, CSS3, Vanilla JavaScript
+- **Learning Focus**: DOM manipulation, event handling, state management
+
+*More projects will be added here as they are developed*
 
 ## Common Technologies
 
